@@ -1,2 +1,5 @@
-print("Devops"," 3credits" )
-print("HPC", "5 credits" )
+print("Aakash Saagar" )
+print("Computer Science" )
+print("3rd year")
+print("E19CSE051")
+print("E19CSE051@bennett.edu.in")
